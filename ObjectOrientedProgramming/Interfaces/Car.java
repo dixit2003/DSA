@@ -8,17 +8,14 @@ public class Car implements Engine, Brake, Media{
     public Car(String carName) {
         this.carName = carName;
     }
-
     @Override
     public void brake() {
         System.out.println(carName + " brakes are awesome!");
     }
-
     @Override
     public void start() {
         System.out.println(carName + " starts in style.");
     }
-
     @Override
     public void stop() {
         System.out.println("The brake system for " + carName + " is very well designed.");
