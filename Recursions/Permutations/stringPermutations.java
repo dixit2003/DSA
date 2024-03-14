@@ -34,7 +34,7 @@ public class stringPermutations {
     }
 
     public static void main(String[] args) {
-        ArrayList<String> ans = permutations1("", "AAB");
+        ArrayList<String> ans = permutations1("", "ABC");
         System.out.println(ans);
     }
 }

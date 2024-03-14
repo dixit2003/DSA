@@ -1,39 +1,33 @@
 package Recursions;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class LetterCombinationOfANumber {
-    static void solveSudoku(char[][] board) {
-
+    static List<String> letterCombinations(String s) {
+        return letterCombinationsHelper(s, "");
     }
-    static boolean isSafe(int[][] board, int row, int col, int num) {
-        for (int i = 0; i < board.length; i++) {
-            if (board[row][col] == num) {
-                return false;
-            }
+    static List<String> letterCombinationsHelper(String up, String p) {
+        if (up.isEmpty()) {
+            List<String> temp = new ArrayList<>();
+            temp.add(p);
+            return temp;
         }
-        for (int j = 0; j < board.length; j++) {
-            if (board[j][col] == num) {
-                return false;
-            }
-        }
-        int sqrt = (int)(Math.sqrt(board.length));
-        int rowStart = row - row % sqrt;
-        int colStart = col - col % sqrt;
+        List<String> ans = new ArrayList<>();
+        int digit = up.charAt(0) - '0';
+        int start = (digit - 2) * 3;
+        if (digit > 7)
+            start++;
+        int end = start + 3;
+        if (digit == 7 || digit == 9)
+            end++;
 
-        for (int r = rowStart; r < rowStart + sqrt; r++) {
-            for (int c = colStart; c < colStart + sqrt; c++) {
-                if (board[r][c] == num) {
-                    return false;
-                }
-            }
+        for (; start < end; start++) {
+            ans.addAll(letterCombinationsHelper(up.substring(1), p + (char) ('a' + start)));
         }
-        return true;
-
+        return ans;
     }
-
-
     public static void main(String[] args) {
-
+        System.out.println(letterCombinations("23"));
     }
 }

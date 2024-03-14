@@ -11,6 +11,5 @@ public class Ptrn1 {
     }
     public static void main(String[] args) {
         pattern(5);
-
     }
 }

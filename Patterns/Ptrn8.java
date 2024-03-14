@@ -13,6 +13,6 @@ public class Ptrn8 {
     }
 
     public static void main(String[] args) {
-        pattern(4);
+        pattern(2);
     }
 }

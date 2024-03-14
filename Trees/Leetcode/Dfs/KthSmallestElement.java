@@ -30,11 +30,12 @@ public class KthSmallestElement {
         TreeNode root = new TreeNode(5);
         root.left = new TreeNode(3);
         root.right = new TreeNode(6);
+        root.right.right = new TreeNode(7);
         root.left.left = new TreeNode(2);
         root.left.right = new TreeNode(4);
         root.left.left.left = new TreeNode(1);
 
-        int k = 3;
+        int k = 7;
 
         // Find the kth smallest element in the BST
         int kthSmallest = kthSmallest(root, k);

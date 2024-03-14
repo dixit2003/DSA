@@ -9,13 +9,13 @@ public class Subset {
         return ans;
     }
     static void helper(int[] nums, int start, List<List<Integer>> ans, List<Integer> temp) {
-        if (start == nums.length) {
-            ans.add(new ArrayList<Integer>(temp));
+        if (start == nums.length) {  // start == length? Add to answer list
+            ans.add(new ArrayList<>(temp));
             return;
         }
-        temp.add(nums[start]);
+        temp.add(nums[start]);  // Include and call for start + 1
         helper(nums, start + 1, ans, temp);
-        temp.remove(temp.size() - 1);
+        temp.remove(temp.size() - 1);  // Exclude and call for start + 1
         helper(nums, start + 1, ans, temp);
     }
 
