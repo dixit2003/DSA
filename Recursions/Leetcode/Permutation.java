@@ -32,6 +32,6 @@ public class Permutation {
     }
 
     public static void main(String[] args) {
-        System.out.println(permutations(new int[]{1, 1, 2}));
+        System.out.println(permutations(new int[]{1, 2, 3}));
     }
 }

@@ -2,7 +2,7 @@ package Hashing;
 
 import java.util.*;
 
-class Solution {
+public class SetMatrixZeros {
     static void setZeroes(int[][] matrix) {
         int col0 = 1;
 

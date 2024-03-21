@@ -5,7 +5,7 @@ public class ReverseBits {
         int reversed = 0;
         while (n > 0) {
             reversed = reversed << 1;
-            if ((int)(n & 1) == 1)
+            if ((int) (n & 1) == 1)
                 reversed ^= 1;
             n = n >> 1;
         }

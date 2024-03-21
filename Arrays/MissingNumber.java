@@ -26,6 +26,20 @@ public class MissingNumber {
         nums[j] = temp;
     }
 
+    static int missingNum(int[] num){
+        int max=0;
+        for (int j : num) {
+            max = Math.max(max, j);
+        }
+        int sum=(max*(max+1))/2;
+
+        for (int j : num) {
+            sum = sum - j;
+        }
+
+        return sum;
+    }
+
     public static void main(String[] args) {
         System.out.println(missingNumber(new int[]{9, 6, 4, 2, 3, 5, 7, 0, 1}));
     }

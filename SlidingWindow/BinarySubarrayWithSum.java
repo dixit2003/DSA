@@ -1,29 +1,31 @@
 package SlidingWindow;
 
-public class BinarySubarrayWithSum {
-    static int numSubarraysWithSum(int[] nums, int goal) {
-        int sum = 0;
-        int ans = 0;
-        int j = 0;
+import java.util.HashMap;
+import java.util.Map;
 
-        for (int i = 0; i < nums.length; i++) {
-            sum += nums[i];
-            if (sum == goal) {
-                ans++;
+public class BinarySubarrayWithSum {
+    static int numSubarraysWithSum(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, 1);
+
+        int prefixSum = 0;
+        int count = 0;
+
+        for (int ele: nums) {
+            prefixSum += ele;
+            if (map.containsKey(prefixSum - k)) {
+                count += map.get(prefixSum - k);
             }
-            else if (sum > goal) {
-                while (sum >= goal && j < nums.length) {
-                    sum -= nums[j++];
-                    if (sum == goal) {
-                        ans++;
-                    }
-                }
+            if (map.containsKey(prefixSum)) {
+                map.replace(prefixSum, map.get(prefixSum) + 1);
+            } else {
+                map.put(prefixSum, 1);
             }
         }
-        return ans;
+        return count;
     }
 
     public static void main(String[] args) {
-        System.out.println(numSubarraysWithSum(new int[]{0, 1, 1, 0, 0, 1, 0, 1, 1}, 5));
+        System.out.println(numSubarraysWithSum(new int[]{0, 1, 1, 0, 0, 1, 0, 1, 1}, 3));
     }
 }

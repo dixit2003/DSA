@@ -33,6 +33,7 @@ public class Heap<T extends Comparable<T>> {
             throw new Exception("Empty Heap!!!");
         T temp = list.get(0);
         T last = list.remove(list.size() - 1);
+
         if (!list.isEmpty()) {
             list.set(0, last);
             downHeap(0);
@@ -88,8 +89,6 @@ public class Heap<T extends Comparable<T>> {
         heap.insert(7);
         heap.insert(2);
 
-        ArrayList<Integer> list1 = heap.heapSort();
-
-        System.out.println(list1);
+        System.out.println(heap.heapSort());
     }
 }
