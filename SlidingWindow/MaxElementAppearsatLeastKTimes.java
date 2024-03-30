@@ -35,6 +35,6 @@ public class MaxElementAppearsatLeastKTimes {
     }
 
     public static void main(String[] args) {
-        System.out.println(countSubarrays(new int[]{1, 3, 2, 2, 3}, 5));
+        System.out.println(countSubarrays(new int[]{1, 3, 2, 2, 3}, 2));
     }
 }
