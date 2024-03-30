@@ -1,4 +1,4 @@
-package Recursions.SubSequences;
+package RecursionAndDP.SubSequences;
 
 import java.util.ArrayList;
 

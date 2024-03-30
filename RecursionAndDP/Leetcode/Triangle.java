@@ -1,4 +1,4 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.List;

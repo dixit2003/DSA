@@ -1,4 +1,4 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
 public class Power {
     static double power(double x, int n) {

@@ -1,6 +1,5 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class HouseRobber {

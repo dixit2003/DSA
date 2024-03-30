@@ -1,4 +1,4 @@
-package Recursions.Sorting;
+package RecursionAndDP.Sorting;
 import java.util.Arrays;
 public class MergeSortInPlace {
 

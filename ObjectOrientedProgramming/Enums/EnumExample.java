@@ -14,6 +14,8 @@ public class EnumExample {
 
     }
     public static void main(String[] args) {
+
+
         Week week;
         week = Week.Monday; //When trying to access one, all types will be printed.
 

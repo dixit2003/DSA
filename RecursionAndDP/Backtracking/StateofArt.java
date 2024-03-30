@@ -1,4 +1,4 @@
-package Recursions.Backtracking;
+package RecursionAndDP.Backtracking;
 
 public class StateofArt {
 

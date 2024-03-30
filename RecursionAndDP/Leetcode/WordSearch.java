@@ -1,4 +1,4 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
 public class WordSearch {
     static boolean exist(char[][] board, String word) {

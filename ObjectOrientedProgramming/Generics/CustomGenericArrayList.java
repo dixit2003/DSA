@@ -34,7 +34,6 @@ public class CustomGenericArrayList<Type> {
         return removed;
     }
     public Type get(int index) {
-
         return (Type) data[index];
     }
     public void set(int index, int ele) {

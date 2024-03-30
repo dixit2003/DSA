@@ -1,4 +1,4 @@
-package Recursions;
+package RecursionAndDP;
 
 public class Recursions {
     static void printNum(int n) {

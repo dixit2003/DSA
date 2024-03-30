@@ -1,4 +1,4 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
 public class FirstUpperCase {
     static char firstUpperCaseChar(String str) {

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ed223d5-60bc-4074-bed5-7f2d3f748410" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Miscellaneous/TimeAtPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Miscellaneous/TimeAtPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Miscellaneous/WaterLogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Miscellaneous/WaterLogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectOrientedProgramming/Cloning/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/Cloning/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectOrientedProgramming/Enums/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/Enums/EnumExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectOrientedProgramming/Generics/CustomGenericArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/Generics/CustomGenericArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Backtracking/IncludeAllPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Backtracking/IncludeAllPaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Backtracking/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Backtracking/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Backtracking/NKnights.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Backtracking/NKnights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Backtracking/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Backtracking/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Backtracking/RatInAMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Backtracking/RatInAMaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Backtracking/StateofArt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Backtracking/StateofArt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/BinarySearchUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/BinarySearchUsingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/CheckSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/CheckSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/CountZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/CountZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/AddDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/AddDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/CombinationSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/CombinationSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/CombinationSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/CombinationSum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/CombinationSum4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/CombinationSum4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/DifferentWaysToAddParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/DifferentWaysToAddParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/FirstUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/FirstUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/HouseRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/Keypad.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/Keypad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/KthSymbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/KthSymbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/LetterTilePossibilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/LetterTilePossibilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/MinPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/NDigitNumbersWithDigitsInIncreasingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/NDigitNumbersWithDigitsInIncreasingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/PalindromePartitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/PalindromePartitioning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/PartitionSubArrayMaximumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/PartitionSubArrayMaximumSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/PartitionSubsetEqualSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/PartitionSubsetEqualSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/PerfectSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/PerfectSquares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/Permutation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/Permutation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/PredictWinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/PredictWinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/SpecialFibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/SpecialFibo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/Subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/Subset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/Subset2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/Subset2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/TriangularSumOfAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/TriangularSumOfAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/TriangularSumOfAnArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/TriangularSumOfAnArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/WordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/WordSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Leetcode/WordSearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Leetcode/WordSearch2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/LetterCombinationOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/LetterCombinationOfANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Permutations/stringPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Permutations/stringPermutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Recursions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Recursions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/ReverseANum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/ReverseANum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Sorting/MergeSortInPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Sorting/MergeSortInPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Sorting/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Strings/RemoveAlp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Strings/RemoveAlp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Strings/SkipString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Strings/SkipString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/SubSequences/AsciiValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/SubSequences/AsciiValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/SubSequences/Subseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/SubSequences/Subseq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/Subsets/Subset1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/Subsets/Subset1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/SudokuSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/SudokuSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursions/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionAndDP/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringBuilders/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringBuilders/LongestPalindromicSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringBuilders/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringBuilders/ValidAnagram.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2ePgyGVSY2qQFvStgdlicLbEVKq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sai Dixit/IdeaProjects/IdeaProjects/DataStructuresAlgos/src/LargeData"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ed223d5-60bc-4074-bed5-7f2d3f748410" name="Changes" comment="" />
+      <created>1711811880437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711811880437</updated>
+    </task>
+    <servers />
+  </component>
+</project>

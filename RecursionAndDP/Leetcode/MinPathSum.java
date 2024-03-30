@@ -1,4 +1,4 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 import java.util.Arrays;
 public class MinPathSum {
     static int minPathSum(int[][] grid) {

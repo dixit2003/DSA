@@ -1,4 +1,4 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
 public class KthSymbol {
     static int kthGrammar(int n, int k) {

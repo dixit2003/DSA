@@ -18,10 +18,10 @@ public class Human implements Cloneable{
 
     @Override
     protected Object clone() throws CloneNotSupportedException {
-        //Shallow copy of an object.
+//        Shallow copy of an object.
 //        return super.clone(); //When super.clone() is invoked within this method,
-        // it calls the clone() method of the Object class,
-        // creating a shallow copy of the object. It just means Object.clone in this context.
+//        it calls the clone() method of the Object class,
+//        creating a shallow copy of the object. It just means Object.clone in this context.
 
         Human copy = (Human) super.clone();
         copy.arr = new int[copy.arr.length];

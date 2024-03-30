@@ -1,4 +1,4 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
 public class PredictWinner {
     static boolean predictTheWinner(int[] nums) {

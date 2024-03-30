@@ -1,4 +1,4 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
 public class SpecialFibo {
     static int NthFibo(int n, int a, int b) {

@@ -1,4 +1,4 @@
-package Recursions.Strings;
+package RecursionAndDP.Strings;
 
 public class SkipString {
     static String skipSpecificString(String str) {

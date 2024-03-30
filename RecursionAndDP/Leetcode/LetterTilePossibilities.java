@@ -1,4 +1,4 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
 public class LetterTilePossibilities {
     static int numTilePossibilities(String tiles) {

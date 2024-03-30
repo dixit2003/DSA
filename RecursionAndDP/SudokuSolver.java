@@ -1,4 +1,4 @@
-package Recursions;
+package RecursionAndDP;
 
 public class SudokuSolver {
     static boolean solve(int[][] board) {

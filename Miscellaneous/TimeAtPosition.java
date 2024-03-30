@@ -55,6 +55,6 @@ public class TimeAtPosition {
     }
 
     public static void main(String[] args) {
-        System.out.println(timeAtPosition(5, 4, 2));
+        System.out.println(timeAtPosition(5, 2, 3));
     }
 }

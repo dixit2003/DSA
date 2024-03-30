@@ -1,6 +1,4 @@
-package Recursions.Leetcode;
-
-import java.util.*;
+package RecursionAndDP.Leetcode;
 
 
 public class TriangularSumOfAnArray {

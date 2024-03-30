@@ -1,4 +1,4 @@
-package Recursions;
+package RecursionAndDP;
 
 public class CountZeros {
     static int zeroes(int n, int count){

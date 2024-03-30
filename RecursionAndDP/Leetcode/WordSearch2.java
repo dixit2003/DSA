@@ -1,8 +1,7 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Spliterator;
 
 public class WordSearch2 {
     static List<String> findWords(char[][] board, String[] words) {

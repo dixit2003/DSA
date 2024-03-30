@@ -1,4 +1,4 @@
-package Recursions.Backtracking;
+package RecursionAndDP.Backtracking;
 
 public class NKnights {
     static void knight(boolean[][] board, int row, int col, int knights) {

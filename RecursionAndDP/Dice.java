@@ -1,4 +1,4 @@
-package Recursions;
+package RecursionAndDP;
 
 import java.util.ArrayList;
 public class Dice {

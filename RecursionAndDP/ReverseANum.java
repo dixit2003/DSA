@@ -1,4 +1,4 @@
-package Recursions;
+package RecursionAndDP;
 
 public class ReverseANum {
     static int reverseNumber(int n) {

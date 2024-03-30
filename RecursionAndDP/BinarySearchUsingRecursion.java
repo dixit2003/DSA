@@ -1,4 +1,4 @@
-package Recursions;
+package RecursionAndDP;
 
 public class BinarySearchUsingRecursion {
     static int binarySearch(int[] arr, int t, int s, int e) {

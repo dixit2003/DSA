@@ -1,19 +1,19 @@
 package StringBuilders;
 
 public class ValidAnagram {
-    public boolean isAnagram(String s, String t) {
-        if(s.length()!=t.length()){
+    static boolean isAnagram(String s, String t) {
+        if(s.length() != t.length()){
             return false;
         }
-        int map[]=new int[26];
+        int[] map = new int[26];
         for(char x : s.toCharArray()){
-            map[x-'a']++;
+            map[x - 'a']++;
         }
         for(char x : t.toCharArray()){
-            map[x-'a']--;
+            map[x - 'a']--;
         }
-        for(int i:map){
-            if (i!=0){
+        for(int i: map) {
+            if (i != 0) {
                 return false;
             }
         }
@@ -21,6 +21,6 @@ public class ValidAnagram {
     }
 
     public static void main(String[] args) {
-
+        System.out.println(isAnagram("boat", "toab"));
     }
 }

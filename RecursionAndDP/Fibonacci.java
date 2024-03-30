@@ -1,4 +1,4 @@
-package Recursions;
+package RecursionAndDP;
 
 public class Fibonacci {
     static void fibo(int a, int b, int n) {

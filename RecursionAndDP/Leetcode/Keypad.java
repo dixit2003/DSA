@@ -1,7 +1,6 @@
-package Recursions.Leetcode;
+package RecursionAndDP.Leetcode;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Keypad {

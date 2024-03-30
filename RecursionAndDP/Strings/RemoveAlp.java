@@ -1,4 +1,4 @@
-package Recursions.Strings;
+package RecursionAndDP.Strings;
 
 public class RemoveAlp {
     static void removeAlp(String p, String u) {

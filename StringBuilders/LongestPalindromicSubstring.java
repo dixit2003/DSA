@@ -18,6 +18,7 @@ public class LongestPalindromicSubstring {
         }
         return str.substring(start, end + 1);
     }
+
     static int lengthOfPalindrome(String str, int left, int right) {
         while (left >= 0 && right < str.length() && str.charAt(left) == str.charAt(right)) {
             left--;
@@ -27,6 +28,6 @@ public class LongestPalindromicSubstring {
     }
 
     public static void main(String[] args) {
-        System.out.println(longestSubstring("adabxbadd"));
+        System.out.println(longestSubstring("madam"));
     }
 }
