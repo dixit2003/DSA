@@ -1,6 +1,6 @@
 package SlidingWindow;
 
-public class CountSubarraysWhereMaxElementAppearsatLeastKTimes {
+public class MaxElementAppearsatLeastKTimes {
 
     // Approach 1 using sliding window
     static long countSubarrays(int[] nums, int k) {
